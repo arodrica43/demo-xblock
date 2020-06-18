@@ -1,0 +1,9 @@
+/* CSS for DemoXBlock */
+
+.demo_block .count {
+    font-weight: bold;
+}
+
+.demo_block p {
+    cursor: pointer;
+}
